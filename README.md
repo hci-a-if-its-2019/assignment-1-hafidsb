@@ -70,7 +70,7 @@ Atari Best Electronics Website is a website that displays information about thei
 ![artifact-3](https://user-images.githubusercontent.com/32842793/53966388-a9ceab80-4125-11e9-8be4-111b660b08c7.png)
 
 ### Flow Model
-![Flow Model and Annotation](https://picsum.photos/400/300/?random)
+![untitled diagram-page-2](https://user-images.githubusercontent.com/32842793/53968955-85290280-412a-11e9-909b-28d5d773326d.png)
 
 ### Cultural Model
 ![untitled diagram](https://user-images.githubusercontent.com/32842793/53967265-7a20a300-4127-11e9-8269-53343f259b2a.png)
