@@ -63,7 +63,12 @@ Atari Best Electronics Website is a website that displays information about thei
 50. M: Ya bener. Baik terimakasih sudah menjadi narasumber.
 ## Models and Annotations
 ### Artifact Model
-![Artifact Model and Annotation](https://picsum.photos/400/300/?random)
+![artifact-1](https://user-images.githubusercontent.com/32842793/53966328-8dcb0a00-4125-11e9-9257-e7432c5e9c3d.png)
+
+![artifact-2](https://user-images.githubusercontent.com/32842793/53966369-9d4a5300-4125-11e9-95a5-def3876a9af4.png)
+
+![artifact-3](https://user-images.githubusercontent.com/32842793/53966388-a9ceab80-4125-11e9-8be4-111b660b08c7.png)
+
 ### Flow Model
 ![Flow Model and Annotation](https://picsum.photos/400/300/?random)
 ### Cultural Model
