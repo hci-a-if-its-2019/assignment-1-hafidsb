@@ -77,9 +77,9 @@ Atari Best Electronics Website is a website that displays information about thei
 
 ## Do's and Don't's
 What can be inferred from the data are:
-### Do
+### Do's
 - Group similar information together
 - Minimize the abuse of text
-- Color the text wisely 
-### Don't
-- 
+
+### Don't's
+- Put excessive unnecessary information in one place 
