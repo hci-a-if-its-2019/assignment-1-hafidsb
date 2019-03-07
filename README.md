@@ -9,9 +9,58 @@ Atari Best Electronics Website is a site that displays  information about their 
 - The user is a 30 years old Indonesian female
 - She is already married and has a daughter of 1 years old
 - Her job is as a bank employee and she is familiar with computer
-## Transcript
-1. 
-2. 
+## Transcript (in Indonesian)
+(M: me, U: user)
+1. M: Halo, berikut adalah wawancara untuk tugas IMK.
+2. M: Dimulai dari pertanyaan pembuka.
+3. U: Ya.
+4. M: Apakah pernah menggunakan katalog online hanya untuk sekedar mencari barang tertentu
+5. U: Ya, pernah.
+6. M: Kalo pernah, katalog apa yang digunakan?   
+7. U: Shopee pernah.
+8. M: Oke, sekarang kita mulai demonya. Coba ketik 'atari best electronics'.
+9. U: Oke. (ngetik di google)
+10. M: Ya jadi website ini adalah website katalog untuk game system atari.
+11. U: Waa, jelek banget! Ini virus ya?
+12. M: Ya, jadi ini nanti aku kasih instruksi. Ini dimaksudkan untuk ngetes websitenya bukan usernya. jadi santai aja.
+13. U: Oh oke.
+14. M: Ya, instruksi pertama, coba cari info kontak atari best electronics!
+15. U: Ih, gaada.
+16. M: Ada cari dulu.
+17. U: Ini? Bukan?
+18. M: Bukan, cari lagi.
+19. U: Masa begini sih? Kontak ya?
+20. M: Kan ini website dari toko elektronik yang beneran ada, pasti ada kontaknya.
+21. U: Ini? Contact information
+22. M: Mana? 
+23. U: Noh, telpon, email, alamat
+24. M: Oh bener, selanjutnya coba cari katalog lengkap produk atari.
+25. U: Masih di halaman ini?
+26. M: Iya.
+27. U: Ini kan?
+28. M: ...
+29. U: Ini?
+30. M: Cari lagi.
+31. U: Yang tadi lho, yang ada gambar-gambar ininya.
+32. M: Bukan, ada lagi yang lengkap.
+33. U: Hmmm. 
+34. M: Ada, nanti diklik dia ngarah ke halaman lain.
+35. U: Click here!?
+36. M: Coba diklik.
+37. U: Waaaw.
+38. M: Bukan, ini cuma gambar-gambar.
+39. (Gangguan teknis)
+40. M: Ya, halo ini lanjutan dari video sebelumnya. Oke lanjutin aja instruksi sebelumnya. 
+41. U: Oh ya, cari katalog lengkap.
+42. U: Kelewatan ya? 
+43. M: Gak tau, aku juga lagi nyari.
+44. U: Click here!? Order ini.
+45. U: Ni ini katalog.
+46. M: Ya benar, luar biasa. Oke instruksi terakhir. Cari gimana cara melakukan pemesanan barang di atari electronics!  
+47. U: Ini diback ya?
+48. M: Iya.
+49. U: Oh ini how to order!
+50. M: Ya bener. Baik terimakasih sudah menjadi narasumber.
 ## Models and Annotations
 ### Artifact Model
 ![Artifact Model and Annotation](https://picsum.photos/400/300/?random)
