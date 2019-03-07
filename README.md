@@ -1,6 +1,6 @@
 # Contextual Inquiry and Analysis
 ## Website Description
-Atari Best Electronics Website is a site that displays  information about their shop, "Atari Best Electronics", that is specializing in replacement parts and accessories for all consumer based atari game systems and atari computers.
+Atari Best Electronics Website is a website that displays information about their shop, "Atari Best Electronics", that is specializing in replacement parts and accessories for all consumer based atari game systems and atari computers.
 ## Instruction Script
 - Find the website’s contact information
 - Find the complete Atari catalogue in the website
@@ -14,7 +14,7 @@ Atari Best Electronics Website is a site that displays  information about their 
 1. M: Halo, berikut adalah wawancara untuk tugas IMK.
 2. M: Dimulai dari pertanyaan pembuka.
 3. U: Ya.
-4. M: Apakah pernah menggunakan katalog online hanya untuk sekedar mencari barang tertentu
+4. M: Apakah pernah menggunakan katalog online hanya untuk sekedar mencari barang tertentu?
 5. U: Ya, pernah.
 6. M: Kalo pernah, katalog apa yang digunakan?   
 7. U: Shopee pernah.
@@ -22,7 +22,7 @@ Atari Best Electronics Website is a site that displays  information about their 
 9. U: Oke. (ngetik di google)
 10. M: Ya jadi website ini adalah website katalog untuk game system atari.
 11. U: Waa, jelek banget! Ini virus ya?
-12. M: Ya, jadi ini nanti aku kasih instruksi. Ini dimaksudkan untuk ngetes websitenya bukan usernya. jadi santai aja.
+12. M: Oke, jadi ini nanti aku kasih instruksi. Ini dimaksudkan untuk ngetes websitenya bukan usernya. jadi santai aja.
 13. U: Oh oke.
 14. M: Ya, instruksi pertama, coba cari info kontak atari best electronics!
 15. U: Ih, gaada.
@@ -31,9 +31,9 @@ Atari Best Electronics Website is a site that displays  information about their 
 18. M: Bukan, cari lagi.
 19. U: Masa begini sih? Kontak ya?
 20. M: Kan ini website dari toko elektronik yang beneran ada, pasti ada kontaknya.
-21. U: Ini? Contact information
+21. U: Ini? Contact information?
 22. M: Mana? 
-23. U: Noh, telpon, email, alamat
+23. U: Noh, telpon, email, alamat.
 24. M: Oh bener, selanjutnya coba cari katalog lengkap produk atari.
 25. U: Masih di halaman ini?
 26. M: Iya.
