@@ -83,3 +83,11 @@ What can be inferred from the data are:
 
 ### Don't's
 - Put excessive unnecessary information in one place 
+
+# Remarks
+> * I believe you picked a good choice for your case of study. Your artifact models indeed visualize the UI problems pretty well.
+> * In overall, good job!
+
+| Working Days | Commits before D | Commits after D | Presentation (80%) | Repo (20%) | Total |
+|:------------:|:----------------:|:---------------:|:------------------:|:----------:|:-----:|
+| 2            | 9                | 9               | 87                 | 83         | 86.2  |
