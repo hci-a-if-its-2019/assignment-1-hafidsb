@@ -90,4 +90,4 @@ What can be inferred from the data are:
 
 | Working Days | Commits before D | Commits after D | Presentation (80%) | Repo (20%) | Total |
 |:------------:|:----------------:|:---------------:|:------------------:|:----------:|:-----:|
-| 2            | 9                | 9               | 87                 | 83         | 86.2  |
+| 2            | 9                | 0               | 87                 | 83         | 86.2  |
